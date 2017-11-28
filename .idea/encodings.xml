@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/bootstrap-slider" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/bootstrap-wysihtml5" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/bs-datetimepicker" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/colorpicker" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/datatables" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/datepicker" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/daterangepicker" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/easypiechart.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/font-awesome.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/font-awesome.min.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/fullcalendar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/gmap.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/ionicons.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/ionicons.min.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/ionslider" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/jQueryUI" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/jquery-ui.min.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/jquery.ui.plupload.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/jvectormap" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/morris" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/multiselect" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/style.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/throbber.gif" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css/timepicker" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/Echarts/echarts.js" charset="GBK" />
+  </component>
+</project>
