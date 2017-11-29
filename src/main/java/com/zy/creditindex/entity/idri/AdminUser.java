@@ -20,5 +20,6 @@ public class AdminUser implements Serializable{
     private Date createdtime;//            createdtime
     private  String name;//    name
     private  String password;//            password
-    private  String  usernumber;//    usernumber
+    private  String  usernumber;//    usernumber   用户编号
+
 }
